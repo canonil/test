@@ -1,1 +1,2 @@
-print("hello")
+local user = game.Players.LocalPlayer.Character.Head
+Spin(user, v, 0)
